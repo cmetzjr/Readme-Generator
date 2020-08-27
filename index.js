@@ -30,7 +30,7 @@ const questions = [{
         name: "use"
     },
     {
-        message: "Path (relative) to screenshot/screencast:",
+        message: "Path to screenshot/screencast:",
         type: "input",
         name: "screen"
     },

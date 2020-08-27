@@ -14,9 +14,9 @@ function generateMarkdown(data) {
 
   return `
 <img src="https://img.shields.io/badge/license-${selectedLicense}-brightgreen">
-<br>
-# ${data.title}
-${data.desc} <br>
+
+# ${data.title}\n
+${data.desc}\n
 ${data.url}
 
 ## Table of Contents
