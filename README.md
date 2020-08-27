@@ -33,7 +33,7 @@ After all of the prompts are complete, the user will receive a message that the 
 
 And remember, it's just a text file written in Markdown, so you can edit it as necessary!
 
-Screenshot of the completed questions:
+Screenshot of the completed questions:<br>
 <img src="utils/screenshot.jpg" width="200px">
 
 [Video demonstration (on Google Drive)](https://drive.google.com/file/d/1k-AhMksP9-8xn4z4uZMG7dg3qOwUPeaZ/view):  
