@@ -37,7 +37,7 @@ Screenshot of the completed questions:
 <img src="utils/screenshot.jpg" width="200px">
 
 [Video demonstration (on Google Drive)](https://drive.google.com/file/d/1k-AhMksP9-8xn4z4uZMG7dg3qOwUPeaZ/view):  
-<iframe src="https://drive.google.com/file/d/1k-AhMksP9-8xn4z4uZMG7dg3qOwUPeaZ/preview" width="640" height="480"></iframe>
+https://drive.google.com/file/d/1k-AhMksP9-8xn4z4uZMG7dg3qOwUPeaZ/view
 
 ## Contribution
 Submit bug and feature requests as issues through the GitHub repo.
